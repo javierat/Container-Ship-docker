@@ -7,6 +7,4 @@ RUN pip install tensorflow keras-ocr
 
 RUN mkdir tests
 
-ADD /scripts/Image1.jpg /tests
-ADD /scripts/Image2.jpg /tests
-ADD /scripts/text-processing.py /tests
+ADD /scripts/hello-world.py /tests
