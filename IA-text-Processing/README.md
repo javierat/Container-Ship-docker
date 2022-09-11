@@ -1,5 +1,5 @@
 
-# IA-Text-Processing with Keras OCR
+# IA-Text-Processing with Keras OCR 🧠
 
 ## Description
 
