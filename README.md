@@ -8,5 +8,6 @@ Repository where I will upload all the containers I have created for my personal
 2. IA-text-processing 
 3. Hadoop-MapReduce
 4. Stress-ng 
+5. Raspberry pi stressors
 
 Container that process text from images with Keras-OCR.
